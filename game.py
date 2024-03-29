@@ -1,3 +1,4 @@
 """A number-guessing game."""
 
-print("Hello player")
+name = input("Hello player - what's your name?")
+print(name)
